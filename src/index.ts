@@ -1,3 +1,6 @@
+/*
+*AUTHOR: Michael-Rousseau
+ */
 import axios from "axios";
 import { URL } from "url";
 import { parse } from "parse5";
