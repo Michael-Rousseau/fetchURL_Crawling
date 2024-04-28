@@ -1,0 +1,26 @@
+{
+  "name": "fetchurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "types": "^0.1.1",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/url-parse": "^1.4.11"
+  }
+}
